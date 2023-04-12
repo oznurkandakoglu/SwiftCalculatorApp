@@ -2,8 +2,7 @@
 //  SwiftCalculatorAppUITests.swift
 //  SwiftCalculatorAppUITests
 //
-//  Created by Tiga  on 10.04.2023.
-//
+
 
 import XCTest
 
